@@ -1,4 +1,5 @@
-### Olá! Eu sou o Raziel 😊
+### Olá! Eu sou o Raziel, atualmente sou estagiário com foco em back-end na empresa Informata Consultoria de Dados, onde utilizo principalmente as seguintes tecnologias:
+## JPA (Java Persistence API) · Spring Boot · Java · Oracle SQL Developer · API de Web Services 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-jos%C3%A9-6084b314a/)
