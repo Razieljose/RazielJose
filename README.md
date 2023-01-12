@@ -12,4 +12,4 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
-Apaixonado por tecnologia e matemática. Atualmente sou estagiário na empresa Informata. Que atua em soluções Comerciais e gestão de estoques desenvolvendo sistemas de acordo com a necessidade de cada cliente.
+Apaixonado por tecnologia e matemática. Sou estagiário na empresa Informata, que atua em soluções comerciais e gestão de estoques desenvolvendo sistemas de acordo com a necessidade de cada cliente.
